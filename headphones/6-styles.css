@@ -337,3 +337,8 @@ footer p {
   font-weight: bold;
   margin: 0 auto 15px auto;
 }
+
+.pentagon:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
